@@ -1,2 +1,2 @@
-# Cprograms
-Compiled C programs for Windows Mac and Linux
+# programs
+Compiled  programs for Windows Mac and Linux
